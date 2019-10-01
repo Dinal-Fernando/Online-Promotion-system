@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Image app v2</string>
+    <array name="type">
+        <item>technician</item>
+        <item>user</item>
+    </array>
+
+    <array name="location">
+        <item>Ampara</item>
+        <item>Anuradapura</item>
+        <item>Badulla</item>
+        <item>Batticalo</item>
+        <item>Colombo</item>
+        <item>Galle</item>
+        <item>Gampaha</item>
+        <item>Hambantota</item>
+        <item>Jaffna</item>
+        <item>Kalutara</item>
+        <item>Kandy</item>
+        <item>Kegalle</item>
+        <item>Kilinochchi</item>
+        <item>Kurunegaa</item>
+        <item>Mannar</item>
+        <item>Matale</item>
+        <item>Matara</item>
+        <item>Monaragala</item>
+        <item>Mulativu</item>
+        <item>Nuwara Eliya</item>
+        <item>Vavniya</item>
+        <item>polonnaruwa</item>
+        <item>Puttalama</item>
+        <item>Rathnapura</item>
+        <item>Trincomalee</item>
+    </array>
+
+
+</resources>
